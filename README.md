@@ -34,5 +34,3 @@ cd frontend
 npm install  
 npm start  
 
-## Author
-Student MERN Mini Project
